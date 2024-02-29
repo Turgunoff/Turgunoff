@@ -11,5 +11,6 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-<img src="https://komarev.com/ghpvc/?username=Turgunoff&label=Profile%20views&color=0e75b6&style=flat" alt="Turgunoff" style="display:inline-block;vertical-align: middle;"> 
+<img src="https://komarev.com/ghpvc/?username=Turgunoff&style=flat-square&color=blue" alt="Turgunoff"/>
 </div>
+
