@@ -67,6 +67,8 @@
 <a href="#"><img src="http://github-readme-streak-stats.herokuapp.com?user=Turgunoff&theme=dark" alt="GitHub Streak" /></a>
 </div>
 <div>
-<p></p>
+<p>
+  
+</p>
 <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Turgunoff&layout=compact&theme=vision-friendly-dark" alt="GitHub Streak" /></a>
 </div>
