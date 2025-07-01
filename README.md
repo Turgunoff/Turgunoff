@@ -4,7 +4,7 @@
   <a href="https://www.linkedin.com/in/turgunoff">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:eldorturgunov777@gmail.com">
+  <a href="mailto:eldor.turgunov.94@yandex.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://t.me/e_turgunoff">
